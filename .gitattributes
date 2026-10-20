@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.pyxres binary
+*.png binary
+*.gif binary
